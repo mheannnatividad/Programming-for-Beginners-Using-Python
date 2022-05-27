@@ -14,5 +14,5 @@ c_2.food = "Glazed Doughnut"
 c_2.total = 230
 
 print(customers.greeting)
-print("c_1.beverage")
-print("c_2.food")
+print(c_1.beverage)
+print(c_2.food)
